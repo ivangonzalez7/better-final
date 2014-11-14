@@ -1,4 +1,5 @@
 drop database if exists realmdb;
+
 create database realmdb;
 
 use realmdb;
