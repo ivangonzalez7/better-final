@@ -1,4 +1,5 @@
 source beeterdb-schema.sql;
+
 insert into users values('alicia', 'Alicia', 'alicia@acme.com');
 insert into users values('blas', 'Blas', 'blas@acme.com');
 
