@@ -1,4 +1,5 @@
 drop database if exists beeterdb;
+
 create database beeterdb;
  
 use beeterdb;
